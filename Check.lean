@@ -1,5 +1,6 @@
-import Brouwer.Main
-#print axioms Brouwer.brouwer_of_GMB
-#check @Brouwer.brouwer_of_GMB
-#print Brouwer.GroneMerrisBai
+import Brouwer
+#print axioms Brouwer.brouwer
+#print axioms Brouwer.grone_merris_bai
+#check @Brouwer.brouwer
+#check @Brouwer.grone_merris_bai
 #print Brouwer.topSum

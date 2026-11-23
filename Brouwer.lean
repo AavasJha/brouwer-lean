@@ -1,3 +1,2 @@
-import Brouwer.Algebra
-import Brouwer.Spectral
 import Brouwer.Main
+import Brouwer.Stage2.Assembly
